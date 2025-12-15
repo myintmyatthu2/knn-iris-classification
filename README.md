@@ -12,9 +12,3 @@ A Python project that demonstrates **K-Nearest Neighbors (KNN)** classification 
 - **Evaluation:** Accuracy, confusion matrix, and class-wise performance
 - **Libraries used:** scikit-learn, pandas, matplotlib, seaborn
 
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/knn-iris-classification.git
-

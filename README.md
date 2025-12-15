@@ -1,2 +1,20 @@
-# knn-iris-classification
-K-Nearest Neighbors (KNN) classifier applied to the Iris dataset using Python. Includes data visualization, model training, prediction, and evaluation with a confusion matrix heatmap.
+# KNN Iris Classification
+
+A Python project that demonstrates **K-Nearest Neighbors (KNN)** classification on the **Iris flower dataset**. This project covers data preprocessing, visualization, model training, prediction, and evaluation.
+
+## Features
+
+- **Dataset:** Iris dataset (sepal & petal measurements)
+- **Model:** K-Nearest Neighbors (KNN)
+- **Visualization:** 
+  - Scatter plots of sepal and petal features
+  - Confusion matrix as a colored heatmap
+- **Evaluation:** Accuracy, confusion matrix, and class-wise performance
+- **Libraries used:** scikit-learn, pandas, matplotlib, seaborn
+
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/knn-iris-classification.git
+
